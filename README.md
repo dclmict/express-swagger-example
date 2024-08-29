@@ -38,7 +38,7 @@ The server will start on `http://localhost:3000`.
 The project structure is as follows:
 
 ```
-express-swagger
+express-swagger-example
 ├── src
 │   ├──routes/
 │   │  └── users.js     # User routes and Swagger documentation
